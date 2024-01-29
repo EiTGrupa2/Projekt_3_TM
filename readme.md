@@ -1,0 +1,1 @@
+# Projekt "Przemysłowa waga wielkogabarytowa"  🛠️
