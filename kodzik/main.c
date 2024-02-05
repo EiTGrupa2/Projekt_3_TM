@@ -1,3 +1,8 @@
+#include "main.h"
+#include "hx711_gain.h"
+#include "hx711_pwm.h"
+#include "hx711_ready.h"
+
 uint32_t hx711read(uint8_t Gain){
 uint32_t Value = 0;
 //Czeka na gotowość HX711
